@@ -15,4 +15,4 @@ I collect visual inspiration on [Are.na](https://are.na/anaya-yorke).
 - reading whether its a good book or research
 ---
 
-[substack](https://shortcircuits.substack.com) · [are.na](https://are.na/anaya-yorke)
+[substack](https://shortcircuits.substack.com) · [are.na](https://are.na/anaya-yorke) · [portfolio](https://www.anayayorke.tech)
