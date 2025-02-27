@@ -1,16 +1,20 @@
-## Hi there 👋
+# anaya yorke
 
-<!--
-**anaya-yorke/anaya-yorke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Anaya. I enjoy algorthims!
 
-Here are some ideas to get you started:
+## about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write about neurotech and biotech on my [Substack](https://shortcircuits.substack.com).
+I collect visual inspiration on [Are.na](https://are.na/anaya-yorke).
+
+## interests
+
+- computational intelligence × human cognition
+- minimal design, clean aesthetics
+- biotechnology
+- neural interfaces
+- yoga + pilates 
+- reading whether its a good book or research
+---
+
+[substack](https://shortcircuits.substack.com) · [are.na](https://are.na/anaya-yorke)
