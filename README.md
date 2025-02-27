@@ -1,5 +1,3 @@
-# anaya yorke
-
 Hi, I'm Anaya. I enjoy algorthims!
 
 ## about
