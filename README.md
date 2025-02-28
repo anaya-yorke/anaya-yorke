@@ -1,13 +1,11 @@
-Hi, I'm Anaya. I enjoy algorthims, find my writing on neurotech [here](https://shortcircuits.substack.com) !
+Hi, I'm [Anaya](https://www.anayayorke.tech). I enjoy algorthims, find my writing on neurotech [here](https://shortcircuits.substack.com)!
 
 
-## interests ✷
+## interests ·
 
 - computational intelligence × human cognition
 - minimal design, clean aesthetics
-- neural interfaces
+- [neural interfaces](https://are.na/anaya-yorke)
 - yoga + pilates 
 - reading, whether its a good book or research
----
 
-[are.na](https://are.na/anaya-yorke) · [portfolio](https://www.anayayorke.tech)
