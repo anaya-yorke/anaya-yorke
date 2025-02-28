@@ -12,7 +12,7 @@ I collect visual inspiration on [Are.na](https://are.na/anaya-yorke).
 - biotechnology
 - neural interfaces
 - yoga + pilates 
-- reading whether its a good book or research
+- reading, whether its a good book or research
 ---
 
 [substack](https://shortcircuits.substack.com) · [are.na](https://are.na/anaya-yorke) · [portfolio](https://www.anayayorke.tech)
