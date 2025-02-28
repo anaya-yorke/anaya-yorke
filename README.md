@@ -5,7 +5,6 @@ Hi, I'm Anaya. I enjoy algorthims, find my writing on neurotech [here](https://s
 
 - computational intelligence × human cognition
 - minimal design, clean aesthetics
-- biotechnology
 - neural interfaces
 - yoga + pilates 
 - reading, whether its a good book or research
