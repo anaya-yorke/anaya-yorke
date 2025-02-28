@@ -1,7 +1,7 @@
 Hi, I'm Anaya. I enjoy algorthims, find my writing on neurotech [here](https://shortcircuits.substack.com) !
 
 
-## interests
+## interests ✷✷
 
 - computational intelligence × human cognition
 - minimal design, clean aesthetics
