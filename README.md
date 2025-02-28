@@ -6,6 +6,5 @@ Hi, I'm [Anaya](https://www.anayayorke.tech). I enjoy algorthims, find my writin
 - computational intelligence × human cognition
 - minimal design, clean aesthetics
 - neural interfaces
-- yoga + pilates 
 - reading, whether its a good book or research
 
