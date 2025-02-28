@@ -1,9 +1,5 @@
-Hi, I'm Anaya. I enjoy algorthims!
+Hi, I'm Anaya. I enjoy algorthims, find my writing on neurotech [here](https://shortcircuits.substack.com)!
 
-## about
-
-I write about neurotech and biotech on my [Substack](https://shortcircuits.substack.com).
-I collect visual inspiration on [Are.na](https://are.na/anaya-yorke).
 
 ## interests
 
@@ -15,4 +11,4 @@ I collect visual inspiration on [Are.na](https://are.na/anaya-yorke).
 - reading, whether its a good book or research
 ---
 
-[substack](https://shortcircuits.substack.com) · [are.na](https://are.na/anaya-yorke) · [portfolio](https://www.anayayorke.tech)
+[are.na](https://are.na/anaya-yorke) · [portfolio](https://www.anayayorke.tech)
