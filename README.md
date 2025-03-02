@@ -1,4 +1,4 @@
-Hi, I'm [Anaya](https://www.anayayorke.tech). I enjoy algorthims, find my writing on neurotech [here](https://shortcircuits.substack.com)!
+Hi, I'm [Anaya](https://www.anayayorke.tech). I'm focused on creating ethical future forward tech, find my writing on neurotech [here](https://shortcircuits.substack.com)!
 
 
 ## interests
