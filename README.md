@@ -2,7 +2,6 @@ Hi, I'm [Anaya](https://www.anayayorke.tech). I'm focused on creating future for
 
 
 ## interests
-]
 - computational intelligence × human cognition
 - minimal design, clean aesthetics
 - reading, whether its a good book or research
