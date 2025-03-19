@@ -1,26 +1,20 @@
 <div align="center">
-  <img src="./img/banner1.gif" width="400"><br>
+  <img src="./img/banner1.gif" width="400">
 </div>
 
-<table width="400" align="center" border="0">
-  <tr>
-    <td align="left">
-      hii welcome <img src="./img/welcome.gif" width="15"><br><br>
-      
-      I'm currently working on software &<br>
-      neuro related projects which you<br>
-      can find here! <img src="./img/nodnod.gif" width="15"><br><br>
-      
-      I'm currently reading<br>
-      <a href="https://www.goodreads.com/book/show/59784109-the-neurotech-primer">Neurotech Primer!</a><br>
-      <img src="./img/yeahhh.webp" width="15"><br><br>
-      
-      ty for stopping by<br>
-      ˖ ࣪‧₊˚⋆✩٩(ˊᗜˋ*)و ✩<br>
-      <img src="./img/bye.gif" width="15">
-    </td>
-  </tr>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp;hii welcome <img src="./img/welcome.gif" width="15">
+
+&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on software &  
+&nbsp;&nbsp;&nbsp;&nbsp;neuro related projects which you  
+&nbsp;&nbsp;&nbsp;&nbsp;can find here! <img src="./img/nodnod.gif" width="15">
+
+&nbsp;&nbsp;&nbsp;&nbsp;I'm currently reading  
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.goodreads.com/book/show/59784109-the-neurotech-primer">Neurotech Primer!</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/yeahhh.webp" width="15">
+
+&nbsp;&nbsp;&nbsp;&nbsp;ty for stopping by  
+&nbsp;&nbsp;&nbsp;&nbsp;˖ ࣪‧₊˚⋆✩٩(ˊᗜˋ*)و ✩  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/bye.gif" width="15">
 
 <div align="center">
   <img src="./img/bannerbottom.gif" width="400">
