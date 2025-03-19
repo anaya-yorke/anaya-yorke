@@ -2,11 +2,11 @@
   <img src="./img/banner1.gif" width="500">
 </p>
 
-hii welcome <img src="./img/welcome.gif" width="15">
+hii welcome <img src="./img/welcome.gif" width="20">
 
-I'm currently working on software & neuro related projects 
+I'm currently working on software & neuro related projects <p
 which you can find here! <img src="./img/nodnod.gif" width="20">
-
+</p>
 I'm currently reading <a href="https://www.goodreads.com/book/show/59784109-the-neurotech-primer">Neurotech Primer!</a> <img src="./img/yeahhh.webp" width="20">
 
 ty for stopping by ˖ ࣪‧₊˚⋆✩٩(ˊᗜˋ*)و ✩ <img src="./img/bye.gif" width="20">
