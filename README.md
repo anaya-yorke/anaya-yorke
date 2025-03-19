@@ -1,22 +1,22 @@
-<div align="center">
+<p align="center">
   <img src="./img/banner1.gif" width="400">
-</div>
+</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;hii welcome <img src="./img/welcome.gif" width="15">
+hii welcome <img src="./img/welcome.gif" width="15">
 
-&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working on software &  
-&nbsp;&nbsp;&nbsp;&nbsp;neuro related projects which you  
-&nbsp;&nbsp;&nbsp;&nbsp;can find here! <img src="./img/nodnod.gif" width="15">
+I'm currently working on software &
+neuro related projects which you
+can find here! <img src="./img/nodnod.gif" width="15">
 
-&nbsp;&nbsp;&nbsp;&nbsp;I'm currently reading  
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.goodreads.com/book/show/59784109-the-neurotech-primer">Neurotech Primer!</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/yeahhh.webp" width="15">
+I'm currently reading
+<a href="https://www.goodreads.com/book/show/59784109-the-neurotech-primer">Neurotech Primer!</a>
+<img src="./img/yeahhh.webp" width="15">
 
-&nbsp;&nbsp;&nbsp;&nbsp;ty for stopping by  
-&nbsp;&nbsp;&nbsp;&nbsp;˖ ࣪‧₊˚⋆✩٩(ˊᗜˋ*)و ✩  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/bye.gif" width="15">
+ty for stopping by
+˖ ࣪‧₊˚⋆✩٩(ˊᗜˋ*)و ✩
+<img src="./img/bye.gif" width="15">
 
-<div align="center">
+<p align="center">
   <img src="./img/bannerbottom.gif" width="400">
-</div>
+</p>
 
