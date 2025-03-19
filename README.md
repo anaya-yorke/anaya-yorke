@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="./img/banner1.gif" width="400">
 </p>
 
@@ -24,7 +24,7 @@
   <img src="./img/bye.gif" width="15">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="./img/bannerbottom.gif" width="400">
 </p>
 
