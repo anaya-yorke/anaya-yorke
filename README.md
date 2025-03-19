@@ -2,7 +2,7 @@
   <img src="./img/banner1.gif" width="500">
 </p>
 
-hii welcome <img src="./img/welcome.gif" width="20">
+**hii welcome** <img src="./img/welcome.gif" width="20">
 
 I'm currently working on software &<br>
 neuro related projects<br>
