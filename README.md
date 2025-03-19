@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./img/banner1.gif" width="500">
+  <img src="./img/banner1.gif" width="800">
 </p>
 
 hii welcome <img src="./img/welcome.gif" width="20">
@@ -12,6 +12,6 @@ I'm currently reading <a href="https://www.goodreads.com/book/show/59784109-the-
 ty for stopping by ˖ ࣪‧₊˚⋆✩٩(ˊᗜˋ*)و ✩ <img src="./img/bye.gif" width="20">
 
 <p align="left">
-  <img src="./img/bannerbottom.gif" width="500">
+  <img src="./img/bannerbottom.gif" width="800">
 </p>
 
