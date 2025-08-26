@@ -7,9 +7,8 @@
 I'm currently working on future forward tech <br>
 which you can find here! <img src="./img/nodnod.gif" width="20">
 
-I love open source contrubuting to any robotics or <br>
-neurotech projects <br>
-i'd be happy to help (pm me!)˖ ࣪‧₊˚⋆✩٩(ˊᗜˋ*)و ✩
+I love contributing to open source robotics or neurotech projects <br>
+I'd be happy to help (pm me!)˖ ࣪‧₊˚⋆✩٩(ˊᗜˋ*)و ✩
 <img src="./img/bye.gif" width="20">
 
 <p align="left">
