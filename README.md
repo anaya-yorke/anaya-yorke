@@ -1,7 +1,7 @@
 
 **hii welcome** 
 
-I'm currently working on software --> hardware <br>
-which you can find here!
+I'm currently working on software --> learning/want to learn hardware <br>
+
 
 
